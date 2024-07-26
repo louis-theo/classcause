@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@kurkle/color": "^0.3.2",
+    "@tremor/react": "^3.14.1",
+    "chart.js": "^4.4.2",
+    "cors": "^2.8.5",
+    "date-fns": "^3.4.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-countup": "^6.5.0",
+    "react-dom": "^18.2.0",
+    "react-table": "^7.8.0",
+    "react-visibility-sensor": "^5.1.1",
+    "recharts": "^2.12.3",
+    "stripe": "^14.23.0",
+    "tailwindcss": "^3.4.1",
+    "victory": "^36.9.2"
+  }
+}

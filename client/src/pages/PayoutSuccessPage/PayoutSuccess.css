@@ -1,0 +1,56 @@
+.payout-success {
+  padding: 60px 30px;
+  background-color: #f7f7f7;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+  max-width: 700px;
+  margin: 60px auto;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.payout-success h1 {
+  color: #4CAF50;
+  font-size: 2.5em;
+  margin-bottom: 30px;
+}
+
+.payout-success p {
+  color: #555;
+  font-size: 1.2em;
+  line-height: 1.7;
+}
+
+.payout-details {
+  margin-top: 40px;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.06);
+}
+
+/* Additional styles for new elements */
+.success-icon {
+  color: #4CAF50;
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.button-container {
+  margin-top: 30px;
+}
+
+.continue-button {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.1em;
+  transition: background-color 0.3s;
+}
+
+.continue-button:hover {
+  background-color: #43a047;
+}
