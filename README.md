@@ -12,6 +12,7 @@ ClassCause is a platform designed to facilitate educational donations, allowing 
 - [Testing](#testing)
 - [Deployment](#deployment)
 - [Usage](#usage)
+- [Demo Video]
 
 ## Installation
 
@@ -254,3 +255,10 @@ Navigate to the application at [ClassCause](https://classcause.uksouth.cloudapp.
 - **Admin**<br>
   Email: diana@example.com<br>
   Password: password
+
+  ## Demo Video
+  
+
+https://github.com/user-attachments/assets/65bd53e2-a044-4229-af2a-ca08b86a34ba
+
+
