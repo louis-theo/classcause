@@ -11,8 +11,8 @@ ClassCause is a platform designed to facilitate educational donations, allowing 
 - [Running Locally](#running-locally)
 - [Testing](#testing)
 - [Deployment](#deployment)
-- [Usage](#usage)
-- [Demo Video]
+- [Usage](#Usage)
+- [Demo Video](#demo-video)
 
 ## Installation
 
@@ -236,7 +236,7 @@ By following these detailed steps, your application will be securely deployed on
 
 ### Stripe Configuration
 
-## Usage And Test Login Credentials
+## Usage
 
 Navigate to the application at [ClassCause](https://classcause.uksouth.cloudapp.azure.com/). Use the various user roles to interact with the system:
 
